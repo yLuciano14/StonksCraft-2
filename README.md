@@ -1,6 +1,6 @@
 # StonkCraft 2
 
-This is the official repository and issue-tracker for All TechMagic Plus
+This is the official repository and issue-tracker for StonksCraft 2
 
 Does "All The Mods" really contain ALL THE MODS? No, of course not.
 
